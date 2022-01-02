@@ -1,19 +1,10 @@
 # TOC Project 2020
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/dc7fa47fcd809b99d087/maintainability)](https://codeclimate.com/github/NCKU-CCS/TOC-Project-2020/maintainability)
-
-[![Known Vulnerabilities](https://snyk.io/test/github/NCKU-CCS/TOC-Project-2020/badge.svg)](https://snyk.io/test/github/NCKU-CCS/TOC-Project-2020)
-
-
-Template Code for TOC Project 2020
-
-A Line bot based on a finite state machine
-
-More details in the [Slides](https://hackmd.io/@TTW/ToC-2019-Project#) and [FAQ](https://hackmd.io/s/B1Xw7E8kN)
-
 ## 介紹
-
+這是一個可以查看餐廳菜單以及預約訂位的機器人。
 ### 主選單
+![image](https://user-images.githubusercontent.com/96587400/147873131-9bff32b9-1a19-41a3-9e18-20750dcf533c.png)
+
 * Python 3.6
 * Pipenv
 * Facebook Page and App
